@@ -241,3 +241,1260 @@ SecurityError: The operation is insecure.
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1577413795227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofile7aAdFr"
+1577413795909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577413795909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577413795909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577413795909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577413797391	Marionette	INFO	Listening on port 60961
+1577413797439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+1577413800297	Marionette	INFO	Stopped listening on port 60961
+[Parent 8296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1118[Parent 8296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16836, Chrome_[Parent 8296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11412, Chrom[GPU 3840, Chrome_ChildThread] WARNING: pip
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577413866327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofile9UE4gc"
+1577413866796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577413866796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577413866797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577413866797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577413868194	Marionette	INFO	Listening on port 61083
+1577413868389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+1577413870871	Marionette	INFO	Stopped listening on port 61083
+[Parent 15912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17[Parent 15912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11396, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 11396, Ch[Parent 15912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17244, Ch[GPU 10740, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577413897297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofileaKkeiL"
+1577413897961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577413897961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577413897961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577413897961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577413899204	Marionette	INFO	Listening on port 61201
+1577413899368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+1577413901847	Marionette	INFO	Stopped listening on port 61201
+[Child 3872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3872[Parent 19256, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 9740, Chrome_ChildThread] WARNING: pipe e[Parent 19256, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18452, Chrome_Ch[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8784, Chro1577414031077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofileAb3vjJ"
+1577414031539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577414031539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577414031539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577414031539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577414032769	Marionette	INFO	Listening on port 61372
+1577414033119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+1577414036159	Marionette	INFO	Stopped listening on port 61372
+[Parent 8616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1496, Chrome_Ch[Parent 8616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x58000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Child 8324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8324, C[Parent 8616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9508, Ch[GPU 960, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577414053327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofileuYRPgZ"
+1577414053990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577414053990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577414053991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577414053991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577414055209	Marionette	INFO	Listening on port 61495
+1577414055408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17[Child 16428, Chrome_ChildThread] WARNING: pipe error:[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9812, Chrom1577414078702	Marionette	INFO	Stopped listening on port 61495
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 7744, Chrome_ChildThread] W1577414304887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofilehfnxIm"
+1577414305358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577414305358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577414305358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577414305358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577414306590	Marionette	INFO	Listening on port 61944
+1577414306940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11376, ChroJavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1728, Chrome_ChildThread] WARNING: p
+###!!! [Child][MessageChannel] Error: (msgtype=0x660029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+ipe error: 109: file 
+###!!! [Child][MessageChannel] Error: (msgtype=0x58000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+z:/task_1575282935/build/src/ipc/chromium/src/chrome/co
+###!!! [Child][MessageChannel] Error: (msgtype=0x37011E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+mmon/ipc_chan
+###!!! [Child][MessageChannel] Error: (msgtype=0x37011E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+nel_win.cc, line 341
+[Child 1728, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 2628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9812, Chrome_Chi1577414330615	Marionette	INFO	Stopped listening on port 61944
+[GPU 8620, Chrome_ChildThread] WARNING: p
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577414444357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofilexnNGRP"
+1577414444816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577414444816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577414444816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577414444816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577414446033	Marionette	INFO	Listening on port 62134
+1577414452549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/buil[Child 10224, Chrome_ChildThread] WARNING: pipe errord/src/ipc/chromium/sr: 109: file z:/task_1c57528/2935/build/src/ipc/chromium/src/chromec/common/ipc_channherlo_mwei/nc.ocmcm,o line 341
+n/ipc_channel_win.cc, line 341
+[Child 10224,[Ch Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4280, Chrome_Chi1577414480889	Marionette	INFO	Stopped listening on port 62134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18584, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577414622137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofileYt3JTU"
+1577414622605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577414622605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577414622605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577414622605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577414623848	Marionette	INFO	Listening on port 62425
+1577414624178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4484, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Child 4484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/c[Parent 14100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9508, Chrome_C1577414668082	Marionette	INFO	Stopped listening on port 62425
+[GPU 147
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+04, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577414808106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofiletAKbP3"
+1577414808574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577414808574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577414808574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577414808574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577414809822	Marionette	INFO	Listening on port 62718
+1577414810158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+1577415294416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofile2fk9ru"
+1577415295013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577415295014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577415295014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577415295014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577415296453	Marionette	INFO	Listening on port 64329
+1577415296478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 356: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWindowWatcher.openWindow]
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 17176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+1577415505466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofileLGfKU3"
+1577415505958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577415505959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577415505959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577415505959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577415507431	Marionette	INFO	Listening on port 65194
+1577415507518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6164, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 6164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 111721577415600291	Marionette	INFO	Stopped listening on port 65194
+[GPU 19124, Chrome_ChildThread] WARNING: pi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577484390001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofileFPcVxz"
+1577484391469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577484391469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577484391470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577484391470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577484394039	Marionette	INFO	Listening on port 50192
+1577484394313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4264, [Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1941577484512277	Marionette	INFO	Stopped listening on port 50192
+[GPU 19516, Chrome_ChildThread]
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577484649322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofiletinZc1"
+*** You are running in headless mode.
+1577484650091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577484650091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577484650091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577484650092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577484652124	Marionette	INFO	Listening on port 50524
+1577484652511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 13520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 13520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 13520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1577484729003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofilekzTDWQ"
+*** You are running in headless mode.
+1577484729867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577484729868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577484729868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577484729868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577484731642	Marionette	INFO	Listening on port 50669
+1577484731673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 8144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 8144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 8144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1577484919269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\12158\\AppData\\Local\\Temp\\rust_mozprofileAwvOQD"
+*** You are running in headless mode.
+1577484920157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577484920157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577484920157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577484920158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577484922219	Marionette	INFO	Listening on port 50952
+1577484922468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 19036, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://cdn.permutive.com/3787312d-3968-4a3a-b501-cca7e7e4fb2d-async.js, line 1: SecurityError: The operation is insecure.
+[Parent 19036, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19036, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
