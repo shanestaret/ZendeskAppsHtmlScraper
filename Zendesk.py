@@ -6,12 +6,13 @@ import xlsxwriter
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.firefox.options import Options
 import sys
+import urllib.request
 
 # Method that will create the Excel sheet
 def create_excel_spreadsheet(name_list, icon_link_list, author_list, price_list, website_list, email_list, chat_app_list, analytics_and_reporting_app_list, cti_providers_app_list, channels_app_list, collaboration_app_list, compose_and_edit_app_list, ecommerce_and_crm_app_list, email_and_social_media_app_list, it_and_project_management_app_list, knowledge_and_content_app_list, productivity_and_time_tracking_app_list, surveys_and_feedback_app_list, telephony_and_sms_app_list, zendesk_labs_app_list):
 
     # path to the Excel file that will be written
-    path = 'C:\\Users\\12158\\Documents\\Shane\\ZendeskAppsNew.xlsx'
+    path = 'PATH/TO/EXCEL/sheet.xlsx'
 
     # list that will hold the names of the headers of the Excel file
     header_list = ['Name', 'Icon Link', 'Type', 'Price', 'Author', 'Website', 'Email', 'Analytics & Reporting', 'CTI Providers', 'Channels', 'Collaboration', 'Compose & Edit', 'E-commerce & CRM', 'Email & Social Media', 'IT & Product Management', 'Knowledge & Content', 'Productivity & Time-tracking', 'Surveys & Feedback', 'Telephony & SMS', 'Zendesk Labs']
@@ -244,6 +245,14 @@ def remove_whitespace_from_name(name):
     if '@' in name:
         formatted_name = formatted_name.replace('@', '')
 
+    # if there is an a forward slash in the app's name, then remove it
+    if '/' in name:
+        formatted_name = formatted_name.replace('/', '')
+
+    # if there is an accented a in the app's name, then remove it
+    if 'Ã¡' in name:
+        formatted_name = formatted_name.replace('Ã¡', '')
+
     return formatted_name
 
 # A function that checks if an HTML element is loaded on the app's page
@@ -302,6 +311,21 @@ def get_icon_link_list():
 
     return icon_link_list
 
+# A method that retrieves and downloads the icons to the correct location
+def get_icons(name_list, icon_link_list):
+
+    # sets up object to open a URL
+    opener = urllib.request.URLopener()
+
+    # user agent needed so 403 error does not occur
+    opener.addheader('User-Agent', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7')
+
+    # Go through each icon link and download the icon
+    for i in range(len(icon_link_list)):
+
+        # Grab each icon and save it to the specified folder
+        opener.retrieve(icon_link_list[i], '/PATH/TO/APP/ICONS' + str(name_list[i]) + '.png')
+
 # A method to get the URL of each app and return it as a list
 def get_url_list(name_list, chat_app_list):
     # list that will hold the individual URL for each app's page on Zendesk; these URLs will be used to get the app's
@@ -329,7 +353,7 @@ def get_selenium_driver():
     options.headless = True
 
     # sets up Firefox browser to be opened; need to include options and executable_path
-    driver = webdriver.Firefox(options=options, executable_path='C:\\Users\\12158\\Documents\\Shane\\geckodriver-v0.26.0-win64\\geckodriver.exe')
+    driver = webdriver.Firefox(options=options, executable_path='PATH/TO/geckodriver.exe')
 
     return driver
 
@@ -566,15 +590,18 @@ def get_app_data(url_list):
             else:
                 email_list.append("No email listed")
 
+        # These app URLs do not work because Zendesk's website is a bit broken
+        elif str(url_list[i]) == 'https://www.zendesk.com/apps/chat/mindsay-for-zendesk-chat' or str(url_list[i]) == 'https://www.zendesk.com/apps/mindsay-for-zendesk-support' or str(url_list[i] == 'https://www.zendesk.com/apps/100worte'):
+            author_list.append("No author listed")
+            price_list.append("No price listed")
+            website_list.append("No website listed")
+            email_list.append("No email listed")
+
         # if the webpage has not loaded, indicate this
         else:
             sys.exit('Page did not load correctly. URL: ' + str(url_list[i]))
 
-        print('App #: ' + str(i + 1))
-        print('Author: ' + str(author_list[i]))
-        print('Price: ' + str(price_list[i]))
-        print('Website: ' + str(website_list[i]))
-        print('Email: ' + str(email_list[i]) + '\n------------------------------------------------------------------\n')
+        print('Retrieved author, price, website, and email of app #' + str(i + 1) + '.')
 
         # quit the selenium driver
         driver.quit()
@@ -687,49 +714,42 @@ def get_app_category_lists():
 # The main method that will drive the execution of the script
 def get_zendesk_apps_info():
 
+    print('Getting app names...')
+
     # get the name of each app
     name_list = get_name_list()
 
-    print('Name List: ' + str(name_list))
+    print('Retrieved app names.\nGetting app icon URLs...')
 
     # get the icon link of each app
     icon_link_list = get_icon_link_list()
 
-    print('Icon Link List: ' + str(icon_link_list))
+    print('Retrieved app icon URLs.\n Saving app icons...')
+
+    # get the icon of each app
+    get_icons(name_list, icon_link_list)
+
+    print('Saved app icons.')
 
     # getting lists that have the name of each app that belongs to the specific category list
     chat_app_list, analytics_and_reporting_app_list, cti_providers_app_list, channels_app_list, collaboration_app_list, compose_and_edit_app_list, ecommerce_and_crm_app_list, email_and_social_media_app_list, it_and_project_management_app_list, knowledge_and_content_app_list, productivity_and_time_tracking_app_list, surveys_and_feedback_app_list, telephony_and_sms_app_list, zendesk_labs_app_list = get_app_category_lists()
 
-    print('Number of Chat apps: ' + str(len(chat_app_list)))
-    print('Number of Analytics & Reporting apps: ' + str(len(analytics_and_reporting_app_list)))
-    print('Number of CTI Providers apps: ' + str(len(cti_providers_app_list)))
-    print('Number of Channels apps: ' + str(len(channels_app_list)))
-    print('Number of Collaboration apps: ' + str(len(collaboration_app_list)))
-    print('Number of Compose & Edit apps: ' + str(len(compose_and_edit_app_list)))
-    print('Number of E-commerce & CRM apps: ' + str(len(ecommerce_and_crm_app_list)))
-    print('Number of Email & Social Media apps: ' + str(len(email_and_social_media_app_list)))
-    print('Number of IT & Project Management apps: ' + str(len(it_and_project_management_app_list)))
-    print('Number of Knowledge & Content apps: ' + str(len(knowledge_and_content_app_list)))
-    print('Number of Productivity & Time Tracking apps: ' + str(len(productivity_and_time_tracking_app_list)))
-    print('Number of Surveys & Feedback apps: ' + str(len(surveys_and_feedback_app_list)))
-    print('Number of Telephony & SMS apps: ' + str(len(telephony_and_sms_app_list)))
-    print('Number of Zendesk Labs apps: ' + str(len(zendesk_labs_app_list)))
+    print('Getting app URLs...')
 
     # get the URL of each app
     url_list = get_url_list(name_list, chat_app_list)
 
-    print('URL List: ' + str(url_list))
+    print('Retrieved app URLs.\nGetting author, price, website, and email info for each app...')
 
     # gets the author, price, website, and email for each app and puts them in their own list
     author_list, price_list, website_list, email_list = get_app_data(url_list)
 
-    print('Author List: ' + str(author_list))
-    print('Price List: ' + str(price_list))
-    print('Website List: ' + str(website_list))
-    print('Email List: ' + str(email_list))
+    print('Retrieved author, price, website, and email info for each app...\nCreating Excel spreadsheet...')
 
     # creates Excel sheet with all data for all Zendesk apps
     create_excel_spreadsheet(name_list, icon_link_list, author_list, price_list, website_list, email_list, chat_app_list, analytics_and_reporting_app_list, cti_providers_app_list, channels_app_list, collaboration_app_list, compose_and_edit_app_list, ecommerce_and_crm_app_list, email_and_social_media_app_list, it_and_project_management_app_list, knowledge_and_content_app_list, productivity_and_time_tracking_app_list, surveys_and_feedback_app_list, telephony_and_sms_app_list, zendesk_labs_app_list)
+
+    print('Finished creating Excel spreadsheet.\nFinished!')
 
 if __name__ == "__main__":
     get_zendesk_apps_info()
